@@ -2,3 +2,4 @@ streamlit
 skyfield
 opencv-python
 numpy
+opencv-python-headless
